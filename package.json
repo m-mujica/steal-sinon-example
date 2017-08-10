@@ -1,0 +1,24 @@
+{
+  "name": "steal-sinon-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-mujica/steal-sinon-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-mujica/steal-sinon-example/issues"
+  },
+  "homepage": "https://github.com/m-mujica/steal-sinon-example#readme",
+  "devDependencies": {
+    "sinon": "^3.2.0",
+    "steal": "stealjs/steal#named-amd-deps"
+  }
+}
