@@ -19,6 +19,6 @@
   "homepage": "https://github.com/m-mujica/steal-sinon-example#readme",
   "devDependencies": {
     "sinon": "^3.2.0",
-    "steal": "stealjs/steal#named-amd-deps"
+    "steal": "^1.5.7"
   }
 }
